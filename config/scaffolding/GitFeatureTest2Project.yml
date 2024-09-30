@@ -16,7 +16,3 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.1999
-- serviceName: pub.date:currentNanoTime
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.1999
